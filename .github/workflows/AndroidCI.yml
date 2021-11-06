@@ -1,4 +1,4 @@
-name: Travelog CI
+name: Android CI
 
 on:
   push:
